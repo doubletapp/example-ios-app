@@ -1,0 +1,1 @@
+#define weakSelfDeclare __weak typeof(self) weakSelf = self
